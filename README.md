@@ -2,8 +2,10 @@
 A JavaScript fall down game.
 This game was created in 2016.
 
+You can play the game [here](https://da-pen.github.io/falldown.html).
+
 ### What I learned by creating this project
-- The importance of modularization (I wrote the entire script in a <script> tag in the HTML)
+- The importance of modularization (I wrote the entire script in a `<script>` tag in the HTML)
 - How to create a canvas in HTML
 - Object-oriented programming in JavaScript
 - Sounds and images in JavaScript
