@@ -9,4 +9,4 @@ This game was created in 2016.
 - AABB Collision detection & resolution
 - How to use a game loop
 
-![alt text](http://dpeng.me/Falldown-Gameplay.png)
+![alt text](https://da-pen.github.io/images/projects/Falldown-Gameplay.png)
